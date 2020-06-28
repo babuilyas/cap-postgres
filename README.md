@@ -1,6 +1,7 @@
 # cds-postgres #
 
-Driver package for access to postgres database, including setting up the client, configuring all the necessary options to initiate the connection and handling database specifics so that they can be processed on our end.
+TBD
+<strike>Driver package for access to oracle database, including setting up the client, configuring all the necessary options to initiate the connection and handling database specifics so that they can be processed on our end.</strike>
 
 ## Overview ## 
 TBD
